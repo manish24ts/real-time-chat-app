@@ -19,9 +19,8 @@ This project is a real-time chat application that allows users to communicate wi
 
 - Real-time messaging
 - User authentication
-- Private and group chats
-- Typing indicators
-- Message notifications
+- Theme customization
+- profile customization
 - Responsive design
 
 ## Installation
@@ -50,14 +49,7 @@ To start the application, run the following command:
 npm start
 ```
 
-Open your browser and navigate to `http://localhost:3000` to use the chat application.
+Open your browser and navigate to `http://localhost:5001` to use the chat application.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
+## Live demo 
+`https://real-time-chat-app-1ggm.onrender.com/`
