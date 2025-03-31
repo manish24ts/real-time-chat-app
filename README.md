@@ -1,6 +1,3 @@
-Sure! Here's a basic example of a README.md file for your real-time chat app repository. You can customize it further according to your project's specific details:
-
-```markdown
 # Real-Time Chat App
 
 This is a real-time chat application built using JavaScript.
@@ -64,10 +61,3 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to modify this template to better suit your project's requirements!
